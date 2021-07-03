@@ -35,7 +35,7 @@ package protoio
 import (
 	"io"
 
-	"github.com/gogo/protobuf/proto"
+	"google.golang.org/protobuf/proto"
 
 	"github.com/multiformats/go-varint"
 )
