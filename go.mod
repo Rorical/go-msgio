@@ -1,6 +1,5 @@
 module github.com/Rorical/go-msgio
-
-go 1.15
+go 1.16
 
 require (
 	github.com/libp2p/go-buffer-pool v0.0.2
